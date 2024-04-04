@@ -1,0 +1,15 @@
+- 👋 Hi, my name is Jennifer Romain
+- 👀 I’m interested in working in Tech with my 3 top positions of interest are:
+     - Design management
+     - Software Engineer
+     - Data Analyst
+- 🌱 I’m currently learning:
+     - Arts Leadership (major), Business and Media & Strategic Communications (minors) at Iona
+     - Software at Year Up
+- 💞️ I’m looking to collaborate on:
+     - challenging projects
+     - user based projects
+- 📫 How to reach me:
+     - Email: romainjenny2001@gmail.com
+- ⚡ Fun fact:
+     - I am a dancer. this has thought me resiliency, perseverance, creativity, and adaptability to make progress in this hobbie and passion.
