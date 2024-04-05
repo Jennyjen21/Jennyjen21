@@ -7,6 +7,7 @@
      - Arts Leadership (major), Business and Media & Strategic Communications (minors) at Iona
      - Software at Year Up
 - 💞️ I’m looking to collaborate on:
+     - Advance in my skills and continue learning
      - challenging projects
      - user based projects
 - 📫 How to reach me:
