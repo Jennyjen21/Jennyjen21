@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Jennifer Romain
-- 👀 I’m interested in working in Tech with my 3 top positions of interest are:
+- 👀 I’m interested in working in Tech with my top 3 positions of interest are:
      - Design management
      - Software Engineer
      - Data Analyst
@@ -9,7 +9,7 @@
 - 💞️ I’m looking to collaborate on:
      - Advance in my skills and continue learning
      - challenging projects
-     - user based projects
+     - user-based projects
 - 📫 How to reach me:
      - Email: romainjenny2001@gmail.com
 - ⚡ Fun fact:
