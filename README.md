@@ -4,11 +4,11 @@
   - Software Engineer
   - Scrum Master
     
-- 🌱 I’m currently:
+- 🌱 I am currently:
   - Majoring in Arts Leadership and minoring in Business and Media & Strategic Communications at Iona University.
-  - Studying Software Engineering at Year Up.
+  - Looking for a position in my top 3 interests but open to broader areas.
     
-- 💞️ I’m looking to collaborate on:
+- 💞️ I am looking to collaborate on:
   - Advancing my skills and continuing learning.
   - Challenging projects.
   - User-focused projects.
